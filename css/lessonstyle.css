@@ -92,9 +92,9 @@ header{
 
 }
 
-
 table, th, td {
   border: 2px solid black;
+  font-size: 18px;
 }
 th, td {
   padding: 5px;
